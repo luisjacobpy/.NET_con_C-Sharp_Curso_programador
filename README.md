@@ -15,3 +15,5 @@ Temas
 12. Depuración
 13. Proyecto videojuego
 14. Proyecto final
+
+![image.net](https://github.com/luisjacobpy/.NET_con_C-Sharp_Curso_programador/blob/main/.NET.jpg)
