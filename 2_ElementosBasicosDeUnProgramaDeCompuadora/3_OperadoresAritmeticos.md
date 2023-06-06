@@ -1,5 +1,46 @@
 # Operadores aritmeticos
 
+
+En C#, los operadores aritméticos son símbolos especiales que se utilizan para realizar operaciones matemáticas en variables y valores numéricos. Estos operadores permiten realizar diversas operaciones, como suma, resta, multiplicación, división, entre otros. A continuación, te mostraré los operadores aritméticos básicos en C# y cómo funcionan:
+
+## Suma (+): 
+El operador de suma se utiliza para sumar dos valores. Por ejemplo:
+```c#
+int resultado = 5 + 3; // resultado será igual a 8
+```
+
+## Resta (-):
+El operador de resta se utiliza para restar un valor de otro. Por ejemplo:
+```c#
+int resultado = 10 - 4; // resultado será igual a 6
+
+```
+
+## Multiplicación (*): 
+El operador de multiplicación se utiliza para multiplicar dos valores. Por ejemplo:
+```c#
+int resultado = 3 * 4; // resultado será igual a 12
+
+```
+## División (/): 
+El operador de división se utiliza para dividir un valor entre otro. Por ejemplo:
+
+```c#
+int resultado = 10 / 2; // resultado será igual a 5
+
+```
+## Incremento (++): 
+El operador de incremento se utiliza para aumentar en uno el valor de una variable. Puede usarse tanto como prefijo (++i) como sufijo (i++). Por ejemplo:
+```c#
+int i = 5;
+i++; // el valor de i será 6
+```
+## Decremento (--): 
+El operador de decremento se utiliza para disminuir en uno el valor de una variable. Puede usarse tanto como prefijo (--i) como sufijo (i--). Por ejemplo:
+```c#
+int i = 5;
+i--; // el valor de i será 4
+```
 ## Unarios
 Un operando para funcionar
 
